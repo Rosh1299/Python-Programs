@@ -1,0 +1,26 @@
+[
+    {
+        "acc_no": 1,
+        "username": "Roshan",
+        "acc_type": "savings",
+        "amount": 5000.0
+    },
+    {
+        "acc_no": 2,
+        "username": "Yogesh",
+        "acc_type": "savings",
+        "amount": 10151.0
+    },
+    {
+        "acc_no": 3,
+        "username": "Sachin",
+        "acc_type": "current",
+        "amount": 5000
+    },
+    {
+        "acc_no": 4,
+        "username": "Vishwajeet",
+        "acc_type": "current",
+        "amount": 7500.0
+    }
+]
